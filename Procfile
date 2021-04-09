@@ -1,1 +1,1 @@
-web: gunicorn student-dash.wsgi --log-file -
+web: gunicorn student.wsgi --log-file -
