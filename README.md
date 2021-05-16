@@ -1,6 +1,6 @@
 # Student-Dashboard-with-django
 
-##Install Requirements
+## Install Requirements
 
 Download the repository and navigate into folder which contains manage.py file
 
