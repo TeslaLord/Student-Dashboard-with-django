@@ -19,25 +19,25 @@ where incomplete notes and homework will be shown in your profile.
 ## Homepage
 
 About 8 services are provided which are listed in the homepage.
-<img src="https://github.com/TeslaLord/TeslaLord/blob/main/homepage.PNG" height=25 width=25> </img>
+<img src="https://github.com/TeslaLord/TeslaLord/blob/main/homepage.PNG"> </img>
 
 
 ## Search Wikipedia
 
 Search Wikipedia and get the relevant details immediately. Click on heading to redirect to the wikipedia article
-<img src="https://github.com/TeslaLord/TeslaLord/blob/main/wikipedia.PNG" height=25 width=25> </img>
+<img src="https://github.com/TeslaLord/TeslaLord/blob/main/wikipedia.PNG"> </img>
 
 ## Search Online books
 
 Search online books and click on the book to get redirected for the main page
-<img src="https://github.com/TeslaLord/TeslaLord/blob/main/books.PNG" height=25 width=25> </img>
+<img src="https://github.com/TeslaLord/TeslaLord/blob/main/books.PNG"> </img>
 
 ## Create homework
 
 Create new homework, mark them as completed or delete them. Be sure to check out the profile page, which displays all the unmarked items.
-<img src="https://github.com/TeslaLord/TeslaLord/blob/main/homework.PNG" height=25 width=25> </img>
+<img src="https://github.com/TeslaLord/TeslaLord/blob/main/homework.PNG"> </img>
 
 ## Create Notes
 
 Create new notes. Click on the notes for expanding it!
-<img src="https://github.com/TeslaLord/TeslaLord/blob/main/notes.PNG" height=25 width=25> </img>
+<img src="https://github.com/TeslaLord/TeslaLord/blob/main/notes.PNG"> </img>
